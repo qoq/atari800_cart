@@ -10,7 +10,7 @@
 - 27C256 or 27C512 ROM chip
 
 ## Case
-There are 3 versions of 
+There are 3 versions of the case
 - Solid shell
 - WIth a cut-out for DIP switches
 - WIth a cut-out for DIP switches and EEPROM chip
